@@ -111,7 +111,7 @@ class SignUp extends StatelessWidget {
                             child: ListTile(
                               leading: CircleAvatar(
                                 backgroundImage:
-                                    AssetImage('assets/fblogo.png'),
+                                    AssetImage('assets/logofb.png'),
                               ),
                               title: Text(
                                 'Sign Up with Facebook',

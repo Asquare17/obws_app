@@ -111,7 +111,7 @@ class LogIn extends StatelessWidget {
                             child: ListTile(
                               leading: CircleAvatar(
                                 backgroundImage:
-                                    AssetImage('assets/fblogo.png'),
+                                    AssetImage('assets/logofb.png'),
                               ),
                               title: Text(
                                 'Log in with Facebook',
